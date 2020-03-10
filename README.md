@@ -71,3 +71,8 @@ $zpl->send_ZPL();
   <p>Created by: 	**Hector Manuel Alonso Ortiz**</p>
   <p>eMail: 		**[alonso.hector@gmail.com](mailto:alonso.hector@gmail.com)**</p>
   <p>Github: 		**https://github.com/alonsohector/MyZPL**</p>
+  
+  
+The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Then... this project too!
+
