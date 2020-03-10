@@ -2,14 +2,17 @@
 
 ## Send ZPL code to Zebra printers using sockets
 
+<p>
+   
+</p>  
 
-Zebra printers allows printing from web interface, simply connects to the Zebra Printer using sockets.
+<p>Zebra printers allows printing from web interface, simply connects to the Zebra Printer using sockets.</p>
   
  **IP ADDRESS:**
-  Set and Validate the Zebra IP Address with set_and_validate_IP($IP_Address) before to send information.
+  <p>Set and Validate the Zebra IP Address with set_and_validate_IP($IP_Address) before to send information.</p>
   
  **PORT NUMBER:**
-  Zebra printers by default use 9100 port and you can change it by using set_Port($port) 
+  <p>Zebra printers by default use 9100 port and you can change it by using set_Port($port) </p>
   
  **ZPL CODE:**
   <p>Test ZPL representation for Zebra is added in function test_ZPL().</p>
@@ -65,6 +68,6 @@ $zpl->send_ZPL();
   
   ##GNU GENERAL PUBLIC LICENSE
   
-  Created by: 	**Hector Manuel Alonso Ortiz**
-  eMail: 		**alonso.hector@gmail.com**
-  Github: 		**https://github.com/alonsohector/MyZPL**
+  <p>Created by: 	**Hector Manuel Alonso Ortiz**</p>
+  <p>eMail: 		**alonso.hector@gmail.com**</p>
+  <p>Github: 		**https://github.com/alonsohector/MyZPL**</p>
