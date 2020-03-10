@@ -19,7 +19,8 @@
   <p>It is better Zebra tools to create ZPL templates and labels</p>
   <p> </p>
   but we can use ZPL online viewer [LABELARY](https://www.labelary.com/viewer.html) 
-  <p>for a visual representation. </p>
+  for a visual representation.
+  <p> </p>
   
 <hl>
   <p align="center">
