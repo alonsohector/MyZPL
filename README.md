@@ -17,7 +17,8 @@
  **ZPL CODE:**
   <p>Test ZPL representation for Zebra is added in function test_ZPL().</p>
   <p>It is better Zebra tools to create ZPL templates and labels</p>
-  <p>but we can use ZPL online viewer [LABELARY](https://www.labelary.com/viewer.html) </p>
+  <p> </p>
+  but we can use ZPL online viewer [LABELARY](https://www.labelary.com/viewer.html) 
   <p>for a visual representation. </p>
   
 <hl>
@@ -67,12 +68,17 @@ $zpl->send_ZPL();
   
   
   ##GNU GENERAL PUBLIC LICENSE
+  <p></p>
   
-  <p>Created by: 	**Hector Manuel Alonso Ortiz**</p>
-  <p>eMail: 		**[alonso.hector@gmail.com](mailto:alonso.hector@gmail.com)**</p>
-  <p>Github: 		**https://github.com/alonsohector/MyZPL**</p>
+  Created by: 	**Hector Manuel Alonso Ortiz**
+  <p></p>
   
+  eMail: 		**[alonso.hector@gmail.com](mailto:alonso.hector@gmail.com)**
+  <p></p>
   
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-Then... this project too!
+  Github: 		**https://github.com/alonsohector/MyZPL**
+  <p></p>
+  
+
+
 
