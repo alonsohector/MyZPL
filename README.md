@@ -17,7 +17,7 @@
  **ZPL CODE:**
   <p>Test ZPL representation for Zebra is added in function test_ZPL().</p>
   <p>It is better Zebra tools to create ZPL templates and labels</p>
-  <p>but we can use ZPL online viewer [LABELARY](http://labelary.com/viewer.html) </p>
+  <p>but we can use ZPL online viewer [LABELARY](https://www.labelary.com/viewer.html) </p>
   <p>for a visual representation. </p>
   
 <hl>
@@ -69,5 +69,5 @@ $zpl->send_ZPL();
   ##GNU GENERAL PUBLIC LICENSE
   
   <p>Created by: 	**Hector Manuel Alonso Ortiz**</p>
-  <p>eMail: 		**alonso.hector@gmail.com**</p>
+  <p>eMail: 		**[alonso.hector@gmail.com](mailto:alonso.hector@gmail.com)**</p>
   <p>Github: 		**https://github.com/alonsohector/MyZPL**</p>
