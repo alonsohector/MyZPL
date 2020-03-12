@@ -6,7 +6,7 @@
    
 </p>  
 
-<p>Zebra printers allows printing from web interface, simply connects to the Zebra Printer using sockets.</p>
+<p>Zebra printers allows printing labels from web interface, simply connects to the Zebra Printer using sockets.</p>
   
  **IP ADDRESS:**
   <p>Set and Validate the Zebra IP Address with set_and_validate_IP($IP_Address) before to send information.</p>
