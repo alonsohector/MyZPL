@@ -26,15 +26,15 @@
   <p align="center">
       <h2>How to use MyZPL</h2>
   </p> 
-<hl>
+</hl>
   
 <p>
   Start with using IP Address and change the Port number if you need it, set the ZPL code and send it to Zebra printer.
 </p>  
 
-<p>
+
   **Easy !!!**
-</p>  
+
 
 
 <pre>
@@ -68,8 +68,10 @@ $zpl->send_ZPL();
   </p>
   
   
-  ##GNU GENERAL PUBLIC LICENSE
+  ## GNU GENERAL PUBLIC LICENSE
   <p></p>
+  The GNU General Public License is a free, copyleft license for software and other kinds of works.
+  
   
   Created by: 	**Hector Manuel Alonso Ortiz**
   <p></p>
@@ -77,7 +79,7 @@ $zpl->send_ZPL();
   eMail: 		**[alonso.hector@gmail.com](mailto:alonso.hector@gmail.com)**
   <p></p>
   
-  Github: 		**https://github.com/alonsohector/MyZPL**
+ 
   <p></p>
   
 
